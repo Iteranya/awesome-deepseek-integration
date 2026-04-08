@@ -4,6 +4,21 @@
 
 ***Yes, seriously, multiple characters, AT ONCE, no switching required***
 
+---
+
+## 📖 Table of Contents
+
+1. [Overview](#viel-ai-)
+2. [Dashboard UI](#the-dashboard-ui)
+   - [Character Management](#character-management)
+   - [Server and Channel Management](#server-and-channel-management)
+   - [Edit Bot Messages Freely](#edit-bot-messages-freely)
+   - [AI Configuration Screen](#ai-configuration-screen)
+3. [Deepseek Integration](#deepseek-integration)
+4. [Links](#links)
+
+---
+
 ## The Dashboard UI
 
 ### Character Management
@@ -57,6 +72,8 @@ AI API Key: sk-your-api-key
 Just like that, you have finished integrating Deepseek with Viel! 
 
 Feel free to change the temperature!
+
+## Links
 
 More info about Viel, installation and tutorial can be found here:
 
