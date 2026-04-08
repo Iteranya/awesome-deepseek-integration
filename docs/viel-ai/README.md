@@ -1,8 +1,10 @@
 
-# **Viel AI** 🤖
+# **[Viel AI](https://github.com/Iteranya/viel-ai)** 🤖
 *Free and Open Source Multi-Character AI Agnostic Discord Bot*
 
-## UI
+***Yes, seriously, multiple characters, AT ONCE, no switching required***
+
+## The Dashboard UI
 
 ### Character Management
 
@@ -17,9 +19,9 @@ This is the Character Management Screen. You can finetune their personality, pro
 
 <img width="1624" alt="Server Management Screen" src="https://github.com/user-attachments/assets/89a88043-df70-4eb7-b14e-fec5fd24a7c1" />
 
+This is where you define which character can speak in specific channel. And yes, multiple characters can be activated AT ONCE! 
 
-
-This is where you define which character can speak in specific channel. And yes, multiple characters can be activated AT ONCE! Viel is designed for multiple-character use!!! No need to manually change characters, simply whitelist them in the channel!
+Viel is designed for multiple-character use!!! No need to manually change characters, simply whitelist them in the channel!
 
 
 ### Edit Bot Messages Freely!
@@ -48,10 +50,14 @@ Just go to the AI Config Panel and do the following:
 ```
 Base LLM Model: deepseek-chat
 AI Endpoint: https://api.deepseek.com/v1
-Temperature: 1.3 (for roleplay)
+Temperature: 1.3
 AI API Key: sk-your-api-key
 ```
 
 Just like that, you have finished integrating Deepseek with Viel! 
 
-Feel free to ch
+Feel free to change the temperature!
+
+More info about Viel, installation and tutorial can be found here:
+
+https://github.com/Iteranya/viel-ai
