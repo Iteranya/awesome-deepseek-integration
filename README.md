@@ -1081,7 +1081,7 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Geneplore AI runs one of the largest AI Discord bots, now with Deepseek v3 and R1. </td>
     </tr>
     <tr>
-        <td> <img src="https://viel.artesparadox.net/img/viel_logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <img src="https://github.com/user-attachments/assets/07c94e4d-b6a2-48bd-91a4-9a1e8f89db9e" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/viel-ai/README.md"> Viel AI </a> </td>
         <td> Roleplay as multiple characters concurrently! The Ultimate AGPL-3 Open Source Roleplay AI Discord Bot, one bot for unlimited amount of characters! Platform Agnostic and fully extensible with plugins. </td>
     </tr>
