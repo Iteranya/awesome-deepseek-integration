@@ -1083,7 +1083,7 @@ The purpose is to build infrastructure in the field of large models, through the
     <tr>
         <td> <img src="https://viel.artesparadox.net/img/viel_logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/viel-ai/README.md"> Viel AI </a> </td>
-        <td> Roleplay as multiple characters concurrently! The Ultimate Roleplay AI Discord Bot, one bot for unlimited amount of characters! Platform Agnostic and fully extensible with plugins. </td>
+        <td> Roleplay as multiple characters concurrently! The Ultimate AGPL-3 Open Source Roleplay AI Discord Bot, one bot for unlimited amount of characters! Platform Agnostic and fully extensible with plugins. </td>
     </tr>
 </table>
 
